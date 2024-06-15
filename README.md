@@ -1,0 +1,1 @@
+i have made changes to the HTML page to make an order history page.And after creating the HTML page i have launched it through flask.There is yet another folder that contains all the fonts css and images that needs to be uploaaded but these files uploaded here are the main ones
